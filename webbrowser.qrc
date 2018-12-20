@@ -1,0 +1,15 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file alias="favoris">icones/favoris.png</file>
+    <file alias="histo">icones/historique.png</file>
+    <file alias="home">icones/home.png</file>
+    <file alias="options">icones/options.png</file>
+    <file alias="precedent">icones/precedent.png</file>
+    <file alias="recharge">icones/rechargement.png</file>
+    <file alias="save">icones/sauvegarder.png</file>
+    <file alias="stop">icones/stop.png</file>
+    <file alias="suivant">icones/suivant.png</file>
+    <file alias="web">icones/web.png</file>
+</qresource>
+</RCC>
